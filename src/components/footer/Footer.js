@@ -11,14 +11,14 @@ const Footer = () => {
         rel="noopener noreferrer"
         style={{ textDecoration: "none" }}
       >
-        <h2 className="brand">{"Anthony"}</h2>
+        <h2 className="brand">{"hho-1"}</h2>
       </a>
       <img
         src={designSvg}
         alt="design"
         style={{ width: "40px", margin: "0  25px 0 10px" }}
       />
-      <span>Copyright FC</span>
+      <span>Copyright</span>
     </div>
   );
 };
